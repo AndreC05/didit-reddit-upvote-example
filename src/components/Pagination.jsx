@@ -10,6 +10,7 @@ export async function Pagination({ currentPage = 1 }) {
 
   return (
     <ul className="flex w-1/2 mx-auto space-x-3 text-2xl">
+      <p>Page:</p>
       {currentPage > 1 && (
         <li>
           <a

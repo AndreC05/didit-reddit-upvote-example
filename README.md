@@ -50,5 +50,7 @@ The project is a work in progress and is not yet complete.
 ## Fixes implemented
 
 - Add page not found
+- Add page lable to pagination
+- Add layout button that redirects to /users
 - Users page
 - User profile
